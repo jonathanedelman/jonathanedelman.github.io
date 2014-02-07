@@ -1,0 +1,41 @@
+/* DOCTYPE: CSS */
+/* Style for Bio*/
+
+body {
+	font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+    background-color: #87CEFA;
+    margin: 20px;
+    padding: 0;
+}
+
+h1 {
+    color: #FFFFFF;
+    background-color: #8B4513;
+    margin: 0;
+    margin-bottom: 14px;
+    padding: 4px;
+    font-style: italic;
+    text-align: center;
+    border-bottom: solid;
+    border-bottom-width: 10px;
+    border-bottom-color: #000000;
+}
+
+li {
+	font-style: italic;
+	color: #003300;
+	line-height: 2.5;
+}
+
+
+p {
+	line-height: 2;
+}
+
+img {
+    border-style: double;
+    border-width: 2px;
+    border-color: #ccc;
+}
