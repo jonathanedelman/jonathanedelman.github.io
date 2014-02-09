@@ -5,22 +5,19 @@ body {
 	font-family: arial, helvetica, sans-serif;
     font-size: 14px;
     color: black;
-    background-color: #87CEFA;
+    background-color: #6E6E6E;
     margin: 20px;
     padding: 0;
 }
 
 h1 {
-    color: #FFFFFF;
-    background-color: #8B4513;
+    color: #FFF2E7;
+    background-color: #6E6E6E;
     margin: 0;
     margin-bottom: 14px;
     padding: 4px;
     font-style: italic;
     text-align: center;
-    border-bottom: solid;
-    border-bottom-width: 10px;
-    border-bottom-color: #000000;
 }
 
 li {
@@ -43,5 +40,5 @@ img {
 img.displayed {
     display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto 
 }
