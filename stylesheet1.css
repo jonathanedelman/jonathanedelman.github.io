@@ -39,3 +39,9 @@ img {
     border-width: 2px;
     border-color: #ccc;
 }
+
+img.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
